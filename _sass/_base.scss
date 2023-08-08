@@ -348,6 +348,10 @@ footer.fixed-bottom {
   }
 }
 
+footer.sticky-bottom div {
+  text-align: center;
+}
+
 footer.sticky-bottom {
   border-top: 1px solid var(--global-divider-color);
   padding-top: 40px;
