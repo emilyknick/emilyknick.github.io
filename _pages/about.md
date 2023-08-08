@@ -21,5 +21,3 @@ My research is primarily focused on <b>psycholinguistics</b> and the <b>phonetic
 Before coming to UC Santa Cruz, I completed my B.A. in Linguistics at the [University of Massachusetts Amherst](https://www.umass.edu/linguistics/), where I was advised by [John Kingston](https://blogs.umass.edu/jkingstn/). I was also lab manager of [XLing Laboratories](https://xlingumass.github.io).
 
 <img src="assets/img/spectrogram.png" alt="Spectrogram" width="500"/>
-
-!!!
