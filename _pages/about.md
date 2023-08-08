@@ -5,8 +5,8 @@ permalink: /
 subtitle: eknick [at] ucsc [dot] edu
 
 profile:
-  align: left
-  image: prof_pic.jpg
+  align: right
+  image: false # prof_pic.jpg
   image_circular: false # crops the image to make it circular
 
 news: false  # includes a list of news items
@@ -14,9 +14,10 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
+I am a first-year Ph.D. student in Linguistics at the [University of California, Santa Cruz](http://ling.ucsc.edu), advised by [Amanda Rysling](https://rysling.sites.ucsc.edu).
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research is primarily focused on <b>psycholinguistics</b> and the <b>phonetics-phonology interface</b>. I am interested in how listeners use acoustic information in the speech signal to access phonological representations.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before coming to UC Santa Cruz, I completed my B.A. in Linguistics at the [University of Massachusetts Amherst](https://www.umass.edu/linguistics/), where I was advised by [John Kingston](https://blogs.umass.edu/jkingstn/). I was also lab manager of [XLing Laboratories](https://xlingumass.github.io).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<img src="assets/img/spectrogram.png" alt="Spectrogram" width="500"/>
