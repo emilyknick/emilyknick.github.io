@@ -20,4 +20,4 @@ My research is primarily focused on <b>semantics</b> and <b>the syntax-semantics
 
 Before coming to UC Santa Cruz, I completed my B.A. in Linguistics at the [University of Massachusetts Amherst](https://www.umass.edu/linguistics/). I was also lab manager of [XLing (Experimental Linguistics) Laboratories](https://xlingumass.github.io).
 
-<img src="assets/img/spectrogram.png" alt="Spectrogram" width="500"/>
+%<img src="assets/img/spectrogram.png" alt="Spectrogram" width="500"/>
