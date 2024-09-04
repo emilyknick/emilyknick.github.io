@@ -14,10 +14,10 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-I am a first-year Ph.D. student in Linguistics at the [University of California, Santa Cruz](http://ling.ucsc.edu), advised by [Amanda Rysling](https://rysling.sites.ucsc.edu).
+I am a second-year Ph.D. student in Linguistics at the [University of California, Santa Cruz](http://ling.ucsc.edu), advised by [Roumyana Pancheva](https://pancheva.github.io).
 
-My research is primarily focused on <b>psycholinguistics</b> and the <b>phonetics-phonology interface</b>. I am interested in how listeners use acoustic information in the speech signal to access phonological representations.
+My research is primarily focused on <b>semantics</b> and <b>the syntax-semantics interface</b>. %I am interested in ...
 
-Before coming to UC Santa Cruz, I completed my B.A. in Linguistics at the [University of Massachusetts Amherst](https://www.umass.edu/linguistics/), where I was advised by [John Kingston](https://blogs.umass.edu/jkingstn/). I was also lab manager of [XLing Laboratories](https://xlingumass.github.io).
+Before coming to UC Santa Cruz, I completed my B.A. in Linguistics at the [University of Massachusetts Amherst](https://www.umass.edu/linguistics/). I was also lab manager of [XLing (Experimental Linguistics) Laboratories](https://xlingumass.github.io).
 
 <img src="assets/img/spectrogram.png" alt="Spectrogram" width="500"/>
