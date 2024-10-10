@@ -16,6 +16,6 @@ social: false  # includes social icons at the bottom of the page
 ---
 I am a second-year Ph.D. student in Linguistics at the [University of California, Santa Cruz](http://ling.ucsc.edu), advised by [Roumyana Pancheva](https://pancheva.github.io).
 
-My research is primarily focused on <b>semantics</b> and <b>its interfaces</b>.
+My research is primarily focused on <b>semantics</b> and <b>its interfaces</b>. TEST
 
 Before coming to UC Santa Cruz, I completed my B.A. in Linguistics at the [University of Massachusetts Amherst](https://www.umass.edu/linguistics/). I was also lab manager of [XLing (Experimental Linguistics) Laboratories](https://xlingumass.github.io).
