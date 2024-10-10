@@ -10,6 +10,5 @@ As a linguist, I am interested in semantics and its interfaces. More specificall
 
 <font size="5"><b>Tense, aspect, and negation in Khalkha Mongolian</b></font><br>
 
-<br>
 (accepted) Knick, Emily. <b>Future reference and covert modality in Khalkha Mongolian</b>. Talk at the 99<sup>th</sup> Linguistic Society of America Annual Meeting, Philadelphia, PA.
 
