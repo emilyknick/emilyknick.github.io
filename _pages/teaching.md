@@ -12,6 +12,9 @@ Developed with [Brian Dillon](https://people.umass.edu/bwdillon/)<br>
 <font size="5"><b>Teaching Assistantships</b></font><br>
 <b>UC Santa Cruz</b>
 
+Winter 2025: Semantics I (LING 53)<br>
+Instructor: [Maziar Toosarvandani](https://people.ucsc.edu/~mtoosarv/)<br>
+
 Fall 2024: Phonetics I (LING 100)<br>
 Instructor: Grant McGuire<br>
 
