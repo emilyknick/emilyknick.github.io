@@ -6,17 +6,20 @@ nav: true
 nav_order: 4
 ---
 <font size="5"><b>Resources</b></font><br>
-<b>[Phoneme Identification Task Lab for Introduction to Experimental Psycholinguistics](https://github.com/bdillon/English_VAS_ID/)</b><br>
+(2023) <b>[Phoneme Identification Task Lab](https://github.com/bdillon/English_VAS_ID/) for Introduction to Experimental Psycholinguistics</b><br>
 Developed with [Brian Dillon](https://people.umass.edu/bwdillon/)<br>
 
 <font size="5"><b>Teaching Assistantships</b></font><br>
 <b>UC Santa Cruz</b>
 
+Spring 2025: Invented Languages, From Elvish to Esperanto (LING 80K)<br>
+Instructor: [Andrew Angeles](https://sites.google.com/ucsc.edu/aangeles)<br>
+
 Winter 2025: Semantics I (LING 53)<br>
 Instructor: [Maziar Toosarvandani](https://people.ucsc.edu/~mtoosarv/)<br>
 
 Fall 2024: Phonetics I (LING 100)<br>
-Instructor: Grant McGuire<br>
+Instructor: [Grant McGuire](https://linguistics.ucsc.edu/people/faculty.php?uid=gmcguir1)<br>
 
 <b>UMass Amherst</b>
 
