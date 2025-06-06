@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<img src="assets/img/emily-2025.jpg" alt="Emily">
+<img src="assets/img/emily-2025.jpg" alt="Emily" width="300" height="400">
 
 I am a second-year Ph.D. student in Linguistics at the [University of California, Santa Cruz](http://ling.ucsc.edu), advised by [Roumyana Pancheva](https://pancheva.github.io).
 
