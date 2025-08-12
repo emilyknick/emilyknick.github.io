@@ -94,7 +94,6 @@
               {%- endif -%}
               {%- endif -%}
               {% endfor -%}
-              {%- if site.enable_darkmode %}
 
               <!-- CV -->
               <li class="nav-item {% if page.title == p.title %}active{% endif %}">
@@ -102,7 +101,8 @@
               <span class="sr-only">(current)</span>
             </a>
             </li>
-
+            
+              {%- if site.enable_darkmode %}
               <!-- Toogle theme mode -->
               <li class="toggle-container">
                 <button id="light-toggle" title="Change theme">

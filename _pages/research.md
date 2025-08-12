@@ -13,12 +13,16 @@ Below, I provide an overview of topics that I consider central to my research, a
 <font size="5"><b>The future</b></font><br>
 The semantics of future temporal reference has been of long-standing interest in linguistics and philosophy. How are the meanings of future expressions best modeled, and to what extent does the semantics of the future vary across languages?
 
+┄
+
 (accepted) <b>Knick, Emily</b>. Proximate futures in English and Turkish: An analogy between spatial and temporal proximity. Talk at North East Linguistics Society 56, New York University.
 
 (2025) <b>Knick, Emily</b>. Future reference and covert modality in Khalkha Mongolian. <i>Proceedings of the Linguistic Society of America</i>, <i>10</i>(1), 5936. [\[proceedings\]](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5936)
 
 <font size="5"><b>The perfect</b></font><br>
 A well-known property of the perfect aspect is that it can lead to different readings (e.g., the experiential, universal, and resultative perfects). What drives the semantic differences between these readings, and what factors constrain whether a particular reading of the perfect is available in the first place?
+
+┄
 
 (accepted) <b>Knick, Emily* </b>and [Sharf, Eli](https://people.ucsc.edu/~ebsharf/index.html)*. On focus and the perfect aspect. Talk at Sinn und Bedeutung 30, Goethe University Frankfurt.
 <br>
