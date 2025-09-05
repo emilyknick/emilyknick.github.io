@@ -6,7 +6,7 @@ subtitle: eknick [at] ucsc [dot] edu
 
 profile:
   align: right
-  image: emily-2025.JPEG
+  image: emily-2025.jpg
   image_circular: false # crops the image to make it circular
 
 news: false  # includes a list of news items
