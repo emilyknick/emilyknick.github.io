@@ -13,7 +13,7 @@ Below, I provide an overview of topics that I consider central to my research, a
 <font size="5"><b>The future</b></font><br>
 The semantics of future temporal reference has been of long-standing interest in linguistics and philosophy. How are the meanings of future expressions best modeled, and to what extent does the semantics of the future vary across languages?
 
-┄
+•••
 
 (in prep) <b>Knick, Emily</b>. Future shifting with present marking in Khalkha Mongolian. \[email for PDF\]
 
@@ -24,7 +24,7 @@ The semantics of future temporal reference has been of long-standing interest in
 <font size="5"><b>The perfect</b></font><br>
 A well-known property of the perfect aspect is that it can lead to different readings (e.g., the experiential, universal, and resultative perfects). What drives the semantic differences between these readings, and what factors constrain whether a particular reading of the perfect is available in the first place?
 
-┄
+•••
 
 (2025) <b>Knick, Emily* </b>and [Sharf, Eli](https://people.ucsc.edu/~ebsharf/index.html)*. On focus and the perfect aspect. Talk at Sinn und Bedeutung 30, Goethe University Frankfurt, September 26, 2025. [\[handout\]](/assets/pdf/Knick-Sharf_Handout_SuB30.pdf)
 <br>
