@@ -12,6 +12,9 @@ Developed with [Brian Dillon](https://people.umass.edu/bwdillon/)<br>
 <font size="5"><b>Teaching Assistantships</b></font><br>
 <b>UC Santa Cruz</b>
 
+Winter 2026: Syntax I (LING 112)<br>
+Instructor: [Mia Gong](https://www.miagong.com/)<br>
+
 Fall 2025: Psycholinguistics I (LING 171)<br>
 Instructor: [Adrian Brasoveanu](https://people.ucsc.edu/~abrsvn/)<br>
 
