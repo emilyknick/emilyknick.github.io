@@ -9,7 +9,7 @@ nav_order: 5
 <font size="5"><b>About Khalkha Mongolian</b></font><br>
 <b>Khalkha Mongolian</b> (Eastern branch, Mongolic) is a language spoken by ⪆ 2.6 million speakers in Mongolia ([2020 Census](https://www.1212.mn/mn)), where it is the national language. It is written in both the Mongolian Cyrillic alphabet and the traditional Mongolian script.
 
-Khalkha Mongolian shares many linguistic features with neighboring Mongolic, Turkic, and Tungusic languages: an SOV basic word order, head-finality, agglutinative morphology, vowel harmony, and more.
+Khalkha Mongolian shares many linguistic features with neighboring Mongolic, Tungusic, and Turkic languages: an SOV basic word order, head-finality, agglutinative morphology, vowel harmony, and more.
 
 <font size="5"><b>Resources</b></font><br>
 [Khalkha Mongolian Dictionary](https://bolor-toli.com/)
