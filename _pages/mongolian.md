@@ -19,7 +19,7 @@ Khalkha Mongolian shares many linguistic features with neighboring Mongolic, Tun
 <font size="5"><b>Mongolian Cyrillic to Latin Alphabet Converter</b></font><br>
 Below is a Jupyter notebook that converts text written in <b>Mongolian Cyrillic</b> to the <b>Latin Alphabet</b>. 
 
-Anyone is free to use the converter. Click <b>``Open in Colab"</b> to get started.
+Anyone is free to use the converter. Click <b>“Open in Colab"</b> to get started.
 
 <script src="https://gist.github.com/emilyknick/05656338d6cdaac201a71987355cbb57.js"></script>
 
