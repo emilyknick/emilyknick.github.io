@@ -19,7 +19,7 @@ The semantics of future temporal reference has been of long-standing interest in
 
 (submitted) <b>Knick, Emily</b>. Future shifting with present marking in Khalkha Mongolian. [\[manuscript\]](/assets/pdf/Future-shifting-with-present-marking-in-Khalkha-Mongolian.pdf)
 
-(2025) <b>Knick, Emily</b>. Proximate futures in English and Turkish. Talk at North East Linguistics Society 56, New York University, October 17, 2025. [\[handout: last updated Nov 7 2025\]](/assets/pdf/USC_Knick_Handout.pdf)
+(2025) <b>Knick, Emily</b>. Proximate futures in English and Turkish: An analogy between temporal and spatial proximity. Talk at North East Linguistics Society 56, New York University, October 17, 2025. [\[handout: last updated Nov 7 2025\]](/assets/pdf/USC_Knick_Handout.pdf)
 
 <font size="5"><b>The perfect</b></font><br>
 A well-known property of the perfect aspect is that it can lead to different readings (e.g., the experiential, universal, resultative, and “hot news" perfects). What drives the semantic differences between these readings, and what factors constrain whether a particular reading of the perfect is available in the first place?
