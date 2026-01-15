@@ -16,7 +16,6 @@ social: false  # includes social icons at the bottom of the page
 ---
 <img src="/assets/img/emily2025square.jpg" alt="Emily Knick" height=275>
 
-<br>
 I am a third-year Ph.D. student in Linguistics at the [University of California, Santa Cruz](http://ling.ucsc.edu), advised by [Roumyana Pancheva](https://pancheva.github.io).
 
 My research is primarily focused on the semantics of <b>tense</b>, <b>aspect</b>, and <b>modality</b>.
