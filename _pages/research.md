@@ -27,7 +27,12 @@ A well-known property of the perfect aspect is that it can lead to different rea
 <font size="5"><b>Narratives and tense</b></font><br>
 In English, the meaning of the present tense shifts within narrative contexts, where it can receive a non-indexical interpretation (i.e., the “historical present"). How do we formally capture the interactions between narratives and tense, and in what ways do narrative contexts shape the interpretation of tense cross-linguistically?
 
-* (ongoing project) <b>Knick, Emily</b>. Narrative tense in Khalkha Mongolian.
+* (accepted) <b>Knick, Emily</b>. Narrative tense in Khalkha Mongolian. Talk at Semantics of Under-Represented Languages in the Americas 14 / TripleA 13, University of British Columbia.
+
+<font size="5"><b><i>Already</i>-like expressions</b></font><br>
+In addition to their temporal meaning, <i>already</i>-like expressions (e.g., <i>already</i>, <i>still</i>, <i>yet</i>, and <i>anymore</i>) are noted for their focus-sensitivity, polysemy, and interactions with negation. Given these properties, what is the precise semantic contribution of these expressions, and is their meaning subject to cross-linguistic variation?
+
+* (accepted) <b>Knick, Emily</b>, Calvo Huerta, Juan Pablo, and [Pancheva, Roumyana](https://pancheva.github.io/). The semantics of <i>already</i> in Paraguayan Guaraní. Talk at Semantics of Under-Represented Languages in the Americas 14 / TripleA 13, University of British Columbia.
 
 <br>
 <font size="2">(* = Co-first authors.)</font>
