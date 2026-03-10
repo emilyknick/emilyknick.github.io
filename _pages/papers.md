@@ -7,7 +7,7 @@ nav_order: 3
 ---
 
 <font size="5"><b>Journal Articles</b></font><br>
-(submitted) <b>Knick, Emily</b>. Future shifting with present marking in Khalkha Mongolian. [\[manuscript\]](/assets/pdf/Future-shifting-with-present-marking-in-Khalkha-Mongolian.pdf)
+(under review) <b>Knick, Emily</b>. Future shifting with present marking in Khalkha Mongolian. [\[manuscript\]](/assets/pdf/Future-shifting-with-present-marking-in-Khalkha-Mongolian.pdf)
 
 <font size="5"><b>Conference Proceedings</b></font><br>
 (forthcoming) <b>Knick, Emily</b>. Proximate futures in English and Turkish. <i>Proceedings of the 56th Annual Meeting of the North East Linguistic Society</i>.
