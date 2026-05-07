@@ -12,6 +12,9 @@ Developed with [Brian Dillon](https://people.umass.edu/bwdillon/)<br>
 <font size="5"><b>Teaching Assistantships</b></font><br>
 <b>UC Santa Cruz</b>
 
+Spring 2026: Introduction to Linguistics (LING 50)<br>
+Instructor: [Jess Law](https://people.ucsc.edu/~jlaw5/)<br>
+
 Winter 2026: Syntax I (LING 112)<br>
 Instructor: [Mia Gong](https://www.miagong.com/)<br>
 

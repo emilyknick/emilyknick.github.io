@@ -34,7 +34,7 @@ In English, the meaning of the present tense shifts within narrative contexts, w
 <font size="5"><b><i>Already</i>-like expressions</b></font><br>
 In addition to contributing a temporal meaning, <i>already</i>-like expressions (e.g., <i>already</i>, <i>still</i>, <i>yet</i>, and <i>anymore</i>) are noted for their focus-sensitivity, polysemy, and interactions with negation. Given these properties, what is the precise meaning of these expressions, and what semantic (a)symmetries do they exhibit?
 
-* (2026) <b>Knick, Emily</b>, Calvo Huerta, Juan Pablo, and [Pancheva, Roumyana](https://pancheva.github.io/). The semantics of <i>already</i> in Paraguayan Guaraní. Talk at Semantics of Under-Represented Languages in the Americas 14 / TripleA 13, University of British Columbia, May 13, 2026.
+* (2026) <b>Knick, Emily</b>, Calvo Huerta, Juan Pablo, and [Pancheva, Roumyana](https://pancheva.github.io/). The discourse-sensitive meaning of English \textit{already} and its Paraguayan Guaraní counterpart. Talk at West Coast Conference on Formal Linguistics 44, Universidad Nacional Autónoma de México, May 8, 2026. [\[handout\]](/assets/pdf/Knick-CalvoHuerta-Pancheva_Handout_WCCFL44.pdf)
 
 <br>
 <font size="2">(* = Co-first authors.)</font>
