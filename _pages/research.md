@@ -29,12 +29,12 @@ A well-known property of the perfect aspect is that it can lead to different rea
 <font size="5"><b>Narratives and tense</b></font><br>
 In English, the meaning of the present tense shifts within narrative contexts, where it can receive a non-indexical interpretation (i.e., the “historical present"). How do we formally capture the interactions between narratives and tense, and in what ways do narrative contexts shape the interpretation of tense cross-linguistically?
 
-* (2026) <b>Knick, Emily</b>. Narrative tense in Khalkha Mongolian. Talk at Semantics and Linguistic Theory 36, University of Buenos Aires.
+* (2026) <b>Knick, Emily</b>. Narrative tense in Khalkha Mongolian. Talk at \{SULA-TripleA, SALT 36\}. [\[handout: last updated May 12 2026\]](/assets/pdf/Knick_Handout_SULA-TripleA.pdf)
 
 <font size="5"><b><i>Already</i>-like expressions</b></font><br>
 In addition to contributing a temporal meaning, <i>already</i>-like expressions (e.g., <i>already</i>, <i>still</i>, <i>yet</i>, and <i>anymore</i>) are noted for their focus-sensitivity, polysemy, and interactions with negation. Given these properties, what is the precise meaning of these expressions, and what semantic (a)symmetries do they exhibit?
 
-* (2026) <b>Knick, Emily</b>, Calvo Huerta, Juan Pablo, and [Pancheva, Roumyana](https://pancheva.github.io/). The discourse-sensitive meaning of English <i>already</i> and its Paraguayan Guaraní counterpart. Talk at West Coast Conference on Formal Linguistics 44, Universidad Nacional Autónoma de México, May 8, 2026. [\[handout\]](/assets/pdf/Knick-CalvoHuerta-Pancheva_Handout_WCCFL44.pdf)
+* (2026) <b>Knick, Emily</b>, Calvo Huerta, Juan Pablo, and [Pancheva, Roumyana](https://pancheva.github.io/). The semantics of <i>already</i> in Paraguayan Guaraní. Talk at \{WCCFL 44, SULA-TripleA\}. [\[handout: last updated May 12 2026\]](/assets/pdf/Knick-CalvoHuerta-Pancheva_Handout_SULA-TripleA.pdf)
 
 <br>
 <font size="2">(* = Co-first authors.)</font>
