@@ -10,7 +10,7 @@ As a linguist, I am interested in <b>semantics</b> and <b>its interfaces</b>. Mo
 
 A belief that is woven into my work is the importance of cross-linguistic insights for semantic theory. Along with my native language, <b>English</b>, I have an empirical focus on the so-called ‘Altaic' languages (e.g., Mongolic, Tungusic, Turkic). Much of my thinking is informed by my work on [<b>Khalkha Mongolian</b>](/khalkha-mongolian/), and I have the ongoing privilege of collecting semantic data in collaboration with native speakers. I have additionally worked on <b>Turkish</b> and <b>Paraguayan Guaraní</b>.
 
-Below, I provide an overview of topics that I consider central to my research, as well as selected references. My full CV can be viewed [here](https://emilyknick.github.io/assets/pdf/EmilyKnick_CV.pdf).
+Below, I provide an overview of topics that I consider central to my research, as well as selected references. <b>My full CV can be viewed [here](https://emilyknick.github.io/assets/pdf/EmilyKnick_CV.pdf).</b>
 
 <font size="5"><b>The future</b></font><br>
 The semantics of future temporal reference has been of long-standing interest in linguistics and philosophy. How are the meanings of future expressions best modeled, and to what extent does the semantics of the future vary across languages?
