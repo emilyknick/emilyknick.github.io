@@ -12,14 +12,14 @@ Developed with [Brian Dillon](https://people.umass.edu/bwdillon/)<br>
 <font size="5"><b>Teaching Assistantships</b></font><br>
 <b>UC Santa Cruz</b>
 
+\{Fall 2025, Fall 2026\}: Psycholinguistics I (LING 171)<br>
+Instructor: [Adrian Brasoveanu](https://people.ucsc.edu/~abrsvn/)<br>
+
 Spring 2026: Introduction to Linguistics (LING 50)<br>
 Instructor: [Jess Law](https://people.ucsc.edu/~jlaw5/)<br>
 
 Winter 2026: Syntax I (LING 112)<br>
 Instructor: [Mia Gong](https://www.miagong.com/)<br>
-
-Fall 2025: Psycholinguistics I (LING 171)<br>
-Instructor: [Adrian Brasoveanu](https://people.ucsc.edu/~abrsvn/)<br>
 
 Spring 2025: Invented Languages, From Elvish to Esperanto (LING 80K)<br>
 Instructor: [Andrew Angeles](https://sites.google.com/ucsc.edu/aangeles)<br>
