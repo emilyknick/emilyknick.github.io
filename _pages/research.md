@@ -22,7 +22,7 @@ The semantics of future temporal reference has been of long-standing interest in
 <font size="5"><b>The perfect</b></font><br>
 A well-known property of the perfect aspect is that it can lead to different readings (e.g., the experiential, universal, resultative, and “hot news" perfects). What drives the semantic differences between these readings, and what factors constrain whether a particular reading of the perfect is available in the first place?
 
-* (to appear) <b>Knick, Emily* </b>and [Sharf, Eli](https://people.ucsc.edu/~ebsharf/index.html)*. On focus and the perfect aspect. <i>Proceedings of Sinn und Bedeutung 30</i>. [\[proceedings\]](/assets/pdf/Knick_Sharf_SuB30.pdf)
+* (2026) <b>Knick, Emily* </b>and [Sharf, Eli](https://people.ucsc.edu/~ebsharf/index.html)*. On focus and the perfect aspect. <i>Proceedings of Sinn und Bedeutung</i>, <i>30</i>, 572--589. [\[proceedings\]](/assets/pdf/Knick_Sharf_SuB30.pdf)
 
 * (2026) [Kiper, Yağmur](https://yagmurkiper.github.io/)* and <b>Knick, Emily*</b>. Perfect-like meanings in Turkish via temporal adverbials. Poster at the 11th Workshop on Turkic and Languages in Contact with Turkic, Massachusetts Institute of Technology, April 11, 2026. [\[poster\]](/assets/pdf/Tu11_Kiper_Knick_Poster.pdf)
 
