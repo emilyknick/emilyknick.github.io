@@ -11,8 +11,7 @@ Developed with [Brian Dillon](https://people.umass.edu/bwdillon/)<br>
 
 <font size="5"><b>Summer School Courses</b></font><br>
 Summer 2026: Non-canonical tense: Tenselessness, narrative tense, and evidential tense<br>
-Co-taught with [Roumyana Pancheva](https://pancheva.github.io)<br>
-[V-NYI #12](https://nyispb.org/)<br>
+Co-taught with [Roumyana Pancheva](https://pancheva.github.io) at [V-NYI #12](https://nyispb.org/)<br>
 
 <font size="5"><b>Teaching Assistantships</b></font><br>
 <b>UC Santa Cruz</b>
