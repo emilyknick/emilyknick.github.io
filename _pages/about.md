@@ -14,7 +14,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-<img src="/assets/img/emily2025square.jpg" alt="Emily Knick" height=275>
+<img src="/assets/img/emily2026.JPEG" alt="Emily Knick" height=325>
 
 I am a fourth-year Ph.D. student in Linguistics at the [University of California, Santa Cruz](http://ling.ucsc.edu), advised by [Roumyana Pancheva](https://pancheva.github.io).
 
