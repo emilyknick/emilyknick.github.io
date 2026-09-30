@@ -15,7 +15,7 @@ Below, I provide an overview of topics that I consider central to my research, a
 <font size="5"><b>The future</b></font><br>
 The semantics of future temporal reference has been of long-standing interest in linguistics and philosophy. How are the meanings of future expressions best modeled, and to what extent does the semantics of the future vary across languages?
 
-* (accepted w/ major revisions) <b>Knick, Emily</b>. Future shifting with present marking in Khalkha Mongolian. <i>Semantics of Natural Languages</i>. [\[manuscript\]](/assets/pdf/Future-shifting-with-present-marking-in-Khalkha-Mongolian.pdf)
+* (accepted) <b>Knick, Emily</b>. Future shifting with present marking in Khalkha Mongolian. <i>Semantics of Natural Languages</i>. [\[manuscript\]](/assets/pdf/Future-shifting-with-present-marking-in-Khalkha-Mongolian.pdf)
 
 * (to appear) <b>Knick, Emily</b>. The temporal semantics of proximate futures in English and Turkish. <i>Proceedings of the 56th Annual Meeting of the North East Linguistic Society</i>. [\[proceedings\]](/assets/pdf/Knick_NELS56.pdf)
 

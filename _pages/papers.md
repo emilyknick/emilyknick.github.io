@@ -7,7 +7,7 @@ nav_order: 3
 ---
 
 <font size="5"><b>Journal Articles</b></font><br>
-(accepted w/ major revisions) <b>Knick, Emily</b>. Future shifting with present marking in Khalkha Mongolian. <i>Semantics of Natural Languages</i>. [\[manuscript\]](/assets/pdf/Future-shifting-with-present-marking-in-Khalkha-Mongolian.pdf)
+(accepted) <b>Knick, Emily</b>. Future shifting with present marking in Khalkha Mongolian. <i>Semantics of Natural Languages</i>. [\[manuscript\]](/assets/pdf/Future-shifting-with-present-marking-in-Khalkha-Mongolian.pdf)
 
 <font size="5"><b>Conference Proceedings</b></font><br>
 (in prep) <b>Knick, Emily</b>. Narrative tense in Khalkha Mongolian. <i>Proceedings of Semantics and Linguistic Theory 36</i>.

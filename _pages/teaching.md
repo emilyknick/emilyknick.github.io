@@ -16,6 +16,12 @@ Co-taught with [Roumyana Pancheva](https://pancheva.github.io) at [V-NYI #12](ht
 <font size="5"><b>Teaching Assistantships</b></font><br>
 <b>UC Santa Cruz</b>
 
+Spring 2027: Semantics I (LING 53)<br>
+Instructor: [Roumyana Pancheva](https://pancheva.github.io)<br>
+
+Winter 2027: Semantics II (LING 116)<br>
+Instructor: [Roumyana Pancheva](https://pancheva.github.io)<br>
+
 \{Fall 2025, Fall 2026\}: Psycholinguistics I (LING 171)<br>
 Instructor: [Adrian Brasoveanu](https://people.ucsc.edu/~abrsvn/)<br>
 
